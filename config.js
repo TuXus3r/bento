@@ -52,6 +52,10 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
+			id: '1',
+			name: 'Bento',
+			icon: 'settings',
+			link: 'https://github.com/TuXus3r/bento',
 		},
 		{
 			id: '2',
